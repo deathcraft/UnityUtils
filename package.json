@@ -1,0 +1,11 @@
+{
+    "name": "com.morteshka.unityutils",
+    "version": "0.0.1",
+    "displayName": "Unity Utils",
+    "description": "Simple quality of life tools to use with Unity.",
+    "unity": "2022.3",
+    "author": {
+        "name": "Vladimir Beletsky",
+        "email": "info@morteshka.com"
+    }
+}
