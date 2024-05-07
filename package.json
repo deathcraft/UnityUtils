@@ -1,6 +1,6 @@
 {
     "name": "com.morteshka.unityutils",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "displayName": "Unity Utils",
     "description": "Simple quality of life tools to use with Unity.",
     "unity": "2022.3",
